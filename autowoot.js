@@ -83,7 +83,7 @@ if (typeof tastyPlugShutDown != 'undefined') tastyPlugShutDown();
                 clearInterval(tos.roomcheck);
                 a = function(){
                     if ($('#room-loader').length) setTimeout(a,200);
-                    else $.getScript('https://raw.githubusercontent.com/likux35/autowoot/master/autowoot.js');
+                    else $.getScript('https://fungustime.pw/tastyplug/tastyplug.js');
                 };
                 a();
             }
