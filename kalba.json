@@ -1,0 +1,65 @@
+
+{
+	"onMention": [
+		{
+			"msgType": "contains",
+			"msgContains": [
+				"green",
+				"blue",
+				"red",
+				"orange"
+				],
+
+			"botReply": [
+				"tai yra spalva!"				
+				]
+		},
+		{
+			"msgType": "contains",
+			"msgContains": [
+				"nbot"
+				],
+
+			"botReply": [
+				"NBOT yra virtualus botas !",
+				"NBOT yra toks mielas !",
+				"NBOT myli tave !",
+				"NBOT`ui tu patinki !",
+				"NBOT yra chat botas !",
+				"Taip ?"				
+				]
+		},
+		{
+			"msgType": "turi būti",
+			"msgContains": [
+				"kopijuojama žinutė į chatą"
+			],
+			"botReply": [
+				"Tu parašei \"kopijuokite žinutę į chatą\"!"
+			]
+		}
+	],
+
+	"offMention": 	[
+		{
+			"msgContains": [
+				"Labas", 
+				"sveikas"
+				],
+
+			"botReply": [
+				"Labas !",
+				"Sveikas !",
+				"Sveikas atvykęs ! \\o"
+				]
+		}
+	],
+
+
+	"global": [
+			"Aš BOT, prašau nekalbėk su manimi :(",
+			"Aš pasakiau nekalbėti su manimi !",
+			"Aš nesupratau jūsų. Susisiekite su administracija !"
+		]
+
+}
