@@ -3,12 +3,12 @@ v1.0
 kurejas : Likuxas
 */
 
+var role = API.getUser(data.fromID).permission;
+botrole = API.getUser().permission;
+
 API.on(API.CHAT, chat);
 
 function chat(data) {
-
- var role = API.getUser(data.fromID).permission;
- botrole = API.getUser().permission;
 
  if(data.message.indexOf("!help") > -1)
  {
