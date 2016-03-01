@@ -1,0 +1,17 @@
+{
+    "room": "Muzika Tavo Ausims",
+    "author": "Lukas_MTS / Likuxas",
+    "rules": {
+        "allowAutorespond": true,
+        "allowAutowoot": true,
+        "allowAutojoin": true,
+        "allowAutograb": true,
+        "allowSmartVote": true,
+        "allowEmotes": true,
+        "allowShowingMehs": true,
+        "forceSmartVote": false
+    },
+    "images": {
+        "background": "https://cdn.radiant.dj/rcs/bg/2k14tiki.jpg"
+    }
+}
