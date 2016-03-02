@@ -11,18 +11,6 @@
         "allowShowingMehs": true,
         "forceSmartVote": false
     },
-    "ccc": {
-        "admin": null,
-        "ambassador": null,
-        "host": "#660066",
-        "cohost": "#660066",
-        "manager": "#000099",
-        "bouncer": "#990000",
-        "rdj": "#330000"
-        "subscriber": null,
-        "friend": null,
-        "user": null
-    },
     "images": {
         "background": "https://cdn.radiant.dj/rcs/bg/2k14tiki.jpg",
         "host": "http://cs.saimon.lt/img/host.png",
