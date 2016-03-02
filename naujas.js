@@ -1,34 +1,12 @@
-// ==UserScript==
-// @name            TastyPlug UserScript
-// @namespace       https://fungustime.pw/tastyplug
-// @description     Automatically runs TastyPlug on plug.dj
-// @icon            https://fungustime.pw/tastyplug/icon128.png
-// @include         https://plug.dj/*
-// @exclude         https://plug.dj/dashboard
-// @exclude         https://plug.dj/privacy
-// @exclude         https://plug.dj/terms
-// @exclude         https://plug.dj/communities
-// @author          Olivier Houle (Fungus)
-// @version         1.1
-// ==/UserScript==
-
-/*
-    Copyright (c) 2013-2014 by Olivier Houle (Fungus)
-    Please do not copy or modify without my permission.
-*/
-
-(function(){
-    var a = function(){
-        if (!document.getElementById('room-loader')) setTimeout(a,200);
-        else b();
+"ccc": {
+        "admin": null,
+        "ambassador": null,
+        "host": "#660066",
+        "cohost": "#660066",
+        "manager": "#000099",
+        "bouncer": "#990000",
+        "rdj": "#330000"
+        "subscriber": null,
+        "friend": null,
+        "user": null
     },
-    b = function(){
-        if (document.getElementById('room-loader')) setTimeout(b,200);
-        else {
-            var c = document.createElement('script');
-            c.textContent = "$.getScript('https://fungustime.pw/tastyplug/tastyplug.js');";
-            document.head.appendChild(c);
-        }
-    };
-    a();
-})();
