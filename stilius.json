@@ -14,8 +14,8 @@
      "ccc": {
         "admin": null,
         "ambassador": null,
-        "host": "#330066",
-        "cohost": "#330066",
+        "host": null,
+        "cohost": null,
         "manager": null,
         "bouncer": null,
         "rdj": null,
@@ -29,7 +29,7 @@
         "host": "http://cs.saimon.lt/img/host.png",
         "cohost": "http://cs.saimon.lt/img/host.png",
         "manager": "http://cs.saimon.lt/img/manager.png",
-        "bouncer": "http://cs.saimon.lt/img/bouncer.jpg",
+        "bouncer": "http://cs.saimon.lt/img/bouncer.png",
         "rdj": "http://cs.saimon.lt/img/rdj.png"
    }
    
