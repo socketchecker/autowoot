@@ -1,10 +1,3 @@
-var url = "https://www.nbot.lt/origin.php";
- 
-$.getJSON(url, function(data) {
-    kalba(data);
-})
- 
-function kalba(data) {
 {
      "bw_4": "%%MENTION%% no swear!",
     "bw_1": "Bad words filter",
