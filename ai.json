@@ -1,0 +1,128 @@
+{
+
+
+	"onMention": [
+
+		{
+
+			"msgType": "contains",
+
+			"msgContains": [
+
+				"žalia",
+
+				"mėlyna",
+
+				"raudona",
+
+				"oranžinė"
+
+				],
+
+
+
+			"botReply": [
+
+				"tai yra spalva !"				
+
+				]
+
+		},
+
+		{
+
+			"msgType": "contains",
+
+			"msgContains": [
+
+				"nbot"
+
+				],
+
+
+
+			"botReply": [
+
+				"NBOT yra tavo virtualusis šuniukas :D",
+
+				"NBOT yra toks mielas :D",
+
+				"NBOT myli tave :D",
+
+				"NBOT mėgsta tave :D",
+
+				"NBOT yra chat-bot :)",
+
+				"taip?"				
+
+				]
+
+		},
+
+		{
+
+			"msgType": "mustBe",
+
+			"msgContains": [
+
+				"kopijuok šią žinutę į chatą"
+
+			],
+
+			"botReply": [
+
+				"tu parašei \"kopijuok šią žinutę į chatą\"!"
+
+			]
+
+		}
+
+	],
+
+
+
+	"offMention": 	[
+
+		{
+
+			"msgContains": [
+
+				"labas", 
+
+				"sveikas"
+
+				],
+
+
+
+			"botReply": [
+
+				"sveikas !",
+
+				"labas !",
+
+				"sveikas atvykęs ! \\o"
+
+				]
+
+		}
+
+	],
+
+
+
+
+
+	"global": [
+
+			"Aš BOT, prašau nesšnekėt su manimi :(",
+
+			"Juk sakiau su manimi nekalbėti !",
+
+			"Aš nesuprantu jūsų :(!"
+
+		]
+
+
+
+}
