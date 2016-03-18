@@ -49,7 +49,7 @@
     "skip_long_song": ":warning: Per ilga daina!",
     "song_in_history": ":warning: Daina yra istorijoje!",
     "song_banned": ":warning: \u0160i daina yra u\u017edrausta!",
-    "roulette_1": "@djs :warning:RULET\u0116:warning: Ra\u0161ykite  %%CMDTRIGGER%%play  norint \u017eaisti. Laim\u0117tojas bus perkeltas \u012f pirm\u0105 viet\u0105 DJ eil\u0117je:exclamation:",
+    "roulette_1": ":warning:RULET\u0116:warning: Ra\u0161ykite  %%CMDTRIGGER%%play  norint \u017eaisti. Laim\u0117tojas bus perkeltas \u012f pirm\u0105 viet\u0105 DJ eil\u0117je:exclamation:",
     "roulette_2": ":white_check_mark: Rulet\u0117 sustojo!",
     "roulette_3": ":warning: %%MENTION%% Tu dabar esi DJ!",
     "roulette_4": ":warning: %%MENTION%% Tu nesi Dj eil\u0117je!",
