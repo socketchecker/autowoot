@@ -26,11 +26,11 @@
     },
     "images": {
         "background": "http://www.part.lt/img/747af4a0ddeb86c41d2f174d7875ca71443.png",
-        "host": "http://cs.saimon.lt/img/admin-cohost.png",
-        "cohost": "http://cs.saimon.lt/img/admin-cohost.png",
-        "manager": "http://cs.saimon.lt/img/manager.png",
-        "bouncer": "http://cs.saimon.lt/img/bouncer.png",
-        "rdj": "http://cs.saimon.lt/img/rdj.png"
+        "host": "https://nbot.lt/mta-images/admin-cohost.png",
+        "cohost": "https://nbot.lt/mta-images/admin-cohost.png",
+        "manager": "https://nbot.lt/mta-images/manager.png",
+        "bouncer": "https://nbot.lt/mta-images/bouncer.png",
+        "rdj": "https://nbot.lt/mta-images/rdj.png"
    }
    
 }
