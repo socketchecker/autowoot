@@ -4,7 +4,7 @@ function botas(data){
 
 	if(data.message.indexOf("!bosas") > -1)
 	{
-		var role = API.getUser(data.fromID).permission
+		var role = API.getUser(data.cid).permission
 		
 		if(role == 5)
                 {
