@@ -12,4 +12,6 @@ function bobas(data){
                 {
 			API.sendChat("@"+data.un+" Ne :D ");
 		}
+        }
 }
+
