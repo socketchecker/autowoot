@@ -1,32 +1,38 @@
-API.on(API.CHAT, bobas);
+API.on(API.CHAT, botas);
 
-function bobas(data){
+function botas(data){
 
 	if(data.message.indexOf("!bosas") > -1)
 	{
-		if(API.ROLE == 5)
+		var role = API.getUser(data.fromID).permission
+		
+		if(role == 5)
                 {
 			API.sendChat("@"+data.un+" Jo , bosas su hosto staffu :)");
 		} 
-                else if(API.ROLE == 4)
+                else if(role == 4)
                 {
 			API.sendChat("@"+data.un+" Jo , bosas su co-host staffu :)");
 		}
-		else if(API.ROLE == 3)
+		else if(role == 3)
                 {
 			API.sendChat("@"+data.un+" Jo , bosas su manager staffu :)");
 		}
-		else if(API.ROLE == 2)
+		else if(role == 2)
                 {
 			API.sendChat("@"+data.un+" Jo , bosas su bouncer staffu :)");
 		}
-		else if(API.ROLE == 1)
+		else if(role == 1)
 		{
 			API.sendChat("@"+data.un+" Jo, bosas bet dar tik prdedantysis su rdj :)")
 		}
-		else if(API.ROLE == 0)
+		else if(role == 0)
 		{
 			API.sendChat("@"+data.un+" Deja, staffo neturi, bet esi pats sau bosas :D")
+		}
+		else
+		{
+			API.sendChat("Error ! Plug.dj klaida..")
 		}
         }
 }
