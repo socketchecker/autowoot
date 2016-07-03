@@ -26,8 +26,8 @@
     },
     "images": {
         "background": "https://nbot.lt/mta-images/fonas-new.png",
-        "host": "https://nbot.lt/mta-images/co_ir_host.jpg",
-        "cohost": "https://nbot.lt/mta-images/co_ir_host.jpg",
+        "host": "https://nbot.lt/mta-images/co_ir_host.png",
+        "cohost": "https://nbot.lt/mta-images/co_ir_host.png",
         "manager": "https://nbot.lt/mta-images/manager.png",
         "bouncer": "https://nbot.lt/mta-images/bouncer.png",
         "rdj": "https://nbot.lt/mta-images/rdj.png"
