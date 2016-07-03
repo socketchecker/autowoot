@@ -4,7 +4,7 @@ function newfun(data){
 
 	if(data.message.indexOf("!test") > -1){
 
-        API.moderateAddDJ(data.id);
+        API.moderateAddDJ(data.cid);
         
         }
 }
