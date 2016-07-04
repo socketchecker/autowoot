@@ -25,9 +25,9 @@
         "user": "#618b94"
     },
     "images": {
-        "background": "https://nbot.lt/mta-images/foniux.png",
-        "host": "https://nbot.lt/mta-images/co_ir_host.png",
-        "cohost": "https://nbot.lt/mta-images/co_ir_host.png",
+        "background": "https://i.imgur.com/o8U69An.jpg",
+        "host": "https://nbot.lt/mta-images/co-host.png",
+        "cohost": "https://nbot.lt/mta-images/co-host.png",
         "manager": "https://nbot.lt/mta-images/manager.png",
         "bouncer": "https://nbot.lt/mta-images/bouncer.png",
         "rdj": "https://nbot.lt/mta-images/rdj.png"
