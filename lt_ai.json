@@ -9,13 +9,13 @@
 
 			"msgContains": [
 
-				"green",
+				"geltona",
 
-				"blue",
+				"mėlyna",
 
-				"red",
+				"raudona",
 
-				"orange"
+				"žalia"
 
 				],
 
@@ -23,7 +23,7 @@
 
 			"botReply": [
 
-				"that is color!"				
+				"tai spalva !"				
 
 				]
 
@@ -43,17 +43,17 @@
 
 			"botReply": [
 
-				"NBOT is your virtual dog",
+				"NBOT tavo virtualus šuniukas :D",
 
-				"NBOT is so cute",
+				"NBOT yra labai mielas :D",
 
-				"NBOT loves you",
+				"NBOT myli tave :D",
 
-				"NBOT likes you",
+				"NBOTUI tu patinki :D",
 
-				"NBOT is chat-bot",
+				"NBOTAS yra chat-botas",
 
-				"yes?"				
+				"ko nori ?"				
 
 				]
 
@@ -65,13 +65,13 @@
 
 			"msgContains": [
 
-				"copy this message to chat"
+				"Nukopijuok šią žinutę į chatą"
 
 			],
 
 			"botReply": [
 
-				"You writed \"copy this message to chat\"!"
+				"Tu parašei \"Nukopijuok šią žinutę į chatą\"!"
 
 			]
 
@@ -87,9 +87,9 @@
 
 			"msgContains": [
 
-				"hi", 
+				"Labas", 
 
-				"hello"
+				"Sveikas"
 
 				],
 
@@ -97,11 +97,11 @@
 
 			"botReply": [
 
-				"hello!",
+				"Labas!",
 
-				"hay!",
+				"Sveikas!",
 
-				"welcome! \\o"
+				"Sveikas atvykęs ! \\o"
 
 				]
 
@@ -115,11 +115,11 @@
 
 	"global": [
 
-			"I'm BOT, please don't talk to me :(",
+			"Aš BOT, prašau nešnekėti su manimi :(",
 
-			"I said, don't talk to me!",
+			"Sakiau nekalbėti su manimi !",
 
-			"I dont understand. Please contact Staff!"
+			"Aš nesuprantu, susisiekite su staffais !"
 
 		]
 
