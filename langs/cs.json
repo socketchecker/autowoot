@@ -4,6 +4,7 @@
     "bw_2": "Odd\u011blte ka\u017ed\u00e9 slovo mezerou. Na p\u0159\u00edklad: \n<b>slovo1 slovo2 slovo3<\/b>",
     "bw_3": "Nevhodn\u00e1 slova napi\u0161 sem...",
     "offline": "%%BOTNAME%% je vypnut\u00fd",
+    "info_song": "info :",
     "downloading_3": ":warning: %%MENTION%% Po\u010dkej, a\u017e se dokon\u010d\u00ed aktu\u00e1ln\u00ed stahov\u00e1n\u00ed.",
     "downloading_2": ":warning: %%MENTION%% nem\u00e1te dostatek DP pro download t\u00e9hle p\u00edsni\u010dky. Napi\u0161 %%CMDTRIGGER%%dp pro v\u00edce informac\u00ed.",
     "skip_reason": "D\u016fvod p\u0159esko\u010den\u00ed:",
