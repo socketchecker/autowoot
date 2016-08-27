@@ -1,6 +1,6 @@
 {
    "room": "Muzika Tavo Ausims",
-   "author": "Likuxas",
+   "author": "Likuxas / Erikas_UH",
    "css": "https://nbot.lt/mta-images/css/theme.css",
    "rules": {
         "allowAutorespond": true,
@@ -29,7 +29,7 @@
         "background": "https://i.imgur.com/o8U69An.jpg",
         "host": "https://nbot.lt/mta-images/co-host.png",
         "cohost": "https://nbot.lt/mta-images/co-host.png",
-        "manager": "https://nbot.lt/mta-images/angry-manager.png",
+        "manager": "https://nbot.lt/mta-images/ak47-manager.png",
         "bouncer": "https://nbot.lt/mta-images/bouncer.png",
         "rdj": "https://nbot.lt/mta-images/rdj-new.png"
    }
