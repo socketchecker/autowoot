@@ -1,7 +1,7 @@
 {
    "room": "Muzika Tavo Ausims",
    "author": "Likuxas / Erikas_UH",
-   "css": "https://nbot.lt/mta-images/css/stilius.css",
+   "css": "https://nbot.lt/mta-images/css/tema.css",
    "rules": {
         "allowAutorespond": true,
         "allowAutowoot": true,
