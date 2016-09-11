@@ -1,0 +1,161 @@
+ /* Likuxas */
+#chat-messages .id-4049810 .badge-box i.bdg
+{
+        background-image:       url('http://cs.saimon.lt/mta-images/admin.png');
+        background-size:        cover;
+}
+
+/* Simplelele */
+
+#chat-messages .id-16538423 .badge-box i.bdg
+{
+        background-image:       url('http://cs.saimon.lt/mta-images/awp.png');
+        background-size:        cover;
+}
+
+
+/* MisterisR */
+
+#chat-messages .id-5033973 .badge-box i.bdg
+{
+        background-image:       url('http://cs.saimon.lt/mta-images/mister.png');
+        background-size:        cover;
+}
+
+/* -Martynas */
+
+#chat-messages .id-4099955 .badge-box i.bdg
+{
+        background-image:       url('http://cs.saimon.lt/mta-images/mvgas.png');
+        background-size:        cover;
+}
+
+/* miauvardusarunas */
+
+#chat-messages .id-4857579 .badge-box i.bdg
+{
+        background-image:       url('http://image.prntscr.com/image/484b5cfca3534b1ea13b9efa58680ff5.png');
+        background-size:        cover;
+}
+
+/* Voveriuke */
+
+#chat-messages .id-3627171 .badge-box i.bdg
+{
+        background-image:       url('http://cs.saimon.lt/mta-images/tom.png');
+        background-size:        cover;
+}
+
+/* Dedule */
+
+#chat-messages .id-3640043 .badge-box i.bdg
+{
+        background-image:       url('http://cs.saimon.lt/mta-images/plug.png');
+        background-size:        cover;
+}
+
+/* Kvanka */
+
+#chat-messages .id-4771436 .badge-box i.bdg
+{
+        background-image:       url('http://cs.saimon.lt/mta-images/kvanka.png');
+        background-size:        cover;
+}
+
+/* -------------- Chat Ikonos --------- */
+
+/* Kvanka */
+
+[data-cid^="4771436-"] .msg .from .un {
+    position: relative;
+    left:-1px;
+    padding-left: 18px;
+    background-image: url('http://cs.saimon.lt/mta-images/banana.png');
+    background-repeat: no-repeat;
+    background-position: -1px center;
+    background-size: 15px auto;
+}
+
+/* Voveriuke */
+
+[data-cid^="3627171-"] .msg .from .un {
+    position: relative;
+    left:-1px;
+    padding-left: 18px;
+    background-image: url('http://cs.saimon.lt/mta-images/sirdute.png');
+    background-repeat: no-repeat;
+    background-position: -1px center;
+    background-size: 15px auto;
+}
+
+/* MisterisR */
+
+[data-cid^="5033973-"] .msg .from .un {
+    position: relative;
+    left:-1px;
+    padding-left: 18px;
+    background-image: url('http://cs.saimon.lt/mta-images/goldsub.png');
+    background-repeat: no-repeat;
+    background-position: -1px center;
+    background-size: 15px auto;
+}
+
+/* PiktasDede */
+
+[data-cid^="16079391-"] .msg .from .un {
+    position: relative;
+    left:-1px;
+    padding-left: 18px;
+    background-image: url('http://cs.saimon.lt/mta-images/radijacija.png');
+    background-repeat: no-repeat;
+    background-position: -1px center;
+    background-size: 15px auto;
+}
+
+/* Dedule */
+
+[data-cid^="3640043-"] .msg .from .un {
+    position: relative;
+    left:-1px;
+    padding-left: 18px;
+    background-image: url('http://cs.saimon.lt/mta-images/lt-flag.png');
+    background-repeat: no-repeat;
+    background-position: -1px center;
+    background-size: 15px auto;
+}
+
+/* Karo */
+
+[data-cid^="6151567-"] .msg .from .un {
+    position: relative;
+    left:-1px;
+    padding-left: 18px;
+    background-image: url('http://cs.saimon.lt/mta-images/sun.png');
+    background-repeat: no-repeat;
+    background-position: -1px center;
+    background-size: 15px auto;
+}
+
+/* Erka */
+
+[data-cid^="5246980-"] .msg .from .un {
+    position: relative;
+    left:-1px;
+    padding-left: 18px;
+    background-image: url('http://cs.saimon.lt/mta-images/debesis.png');
+    background-repeat: no-repeat;
+    background-position: -1px center;
+    background-size: 15px auto;
+}
+
+/* Martynas */
+
+[data-cid^="4099955-"] .msg .from .un {
+    position: relative;
+    left:-1px;
+    padding-left: 18px;
+    background-image: url('http://cs.saimon.lt/mta-images/bioh.png');
+    background-repeat: no-repeat;
+    background-position: -1px center;
+    background-size: 15px auto;
+}
