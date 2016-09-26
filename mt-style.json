@@ -13,6 +13,6 @@
         "forceSmartVote": false
     },
     "images": {
-    background: "https://nbot.lt/mt-images/fonas.png"
+        background: "https://nbot.lt/mt-images/fonas.png"
     }
 }
