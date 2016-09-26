@@ -1,0 +1,18 @@
+{
+   "room": "Muzika Tau",
+   "author": "Likuxas",
+   "css": "https://nbot.lt/mta-images/css/roomas.css",
+   "rules": {
+        "allowAutorespond": true,
+        "allowAutowoot": true,
+        "allowAutojoin": true,
+        "allowAutograb": true,
+        "allowSmartVote": true,
+        "allowEmotes": true,
+        "allowShowingMehs": true,
+        "forceSmartVote": false
+    },
+    "images": {
+    background: "https://nbot.lt/mt-images/fonas.png"
+    }
+}
