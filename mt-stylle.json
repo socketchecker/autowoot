@@ -1,7 +1,7 @@
 {
    "room": "Muzika Tau",
    "author": "Likuxas",
-   "css": "https://nbot.lt/mta-images/css/room-mt-style.css",
+   "css": "https://nbot.lt/mta-images/css/room-mt-stiliux.css",
    "rules": {
         "allowAutorespond": true,
         "allowAutowoot": true,
