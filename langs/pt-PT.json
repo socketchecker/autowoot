@@ -5,6 +5,7 @@
     "bw_2": "Separate each word with space. Example: <b>word1 word2 word3<\/b>",
     "bw_3": "Start typing your bad words here...",
     "offline": "%%BOTNAME%% esta agora desligado",
+    "info_song": "info :",
     "downloading_3": ":warning: %%MENTION%% Wait until the current downloading finishes",
     "downloading_2": ":warning: %%MENTION%% You haven't enough DP to download current song. Write %%CMDTRIGGER%%dp for more info.",
     "skip_reason": "Skip reason: ",
