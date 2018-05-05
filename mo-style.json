@@ -1,7 +1,7 @@
 {
    "room": "Muzikos Oaze",
    "author": "Lukasenka",
-   "css": "https://nbot.us.lt/mta-images/css/room-mts.css",
+   "css": "https://nbot.us.lt/mta-images/css/room-mt.css",
    "rules": {
         "allowAutorespond": true,
         "allowAutowoot": true,
