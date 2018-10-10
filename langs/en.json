@@ -46,6 +46,7 @@
     "roll": "rolled",
     "voteskip_1": " votes for skip",
     "voteskip_2": "you already voted for skip! ",
+    "grab_detected": " "
     "dc_success": ":white_check_mark: %%MENTION%% has disconnected from position %%DCPOSITION%%",
     "skip_long_song": ":warning: Too long song.",
     "song_in_history": ":warning: Song is in history.",
